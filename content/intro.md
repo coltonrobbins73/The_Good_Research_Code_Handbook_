@@ -7,7 +7,7 @@ weight = 2
 
 ### Concepts covered in this text
 
-![Concept Overview](/the_good_research_code_handbook/images/concepts.jpg)
+![Concept Overview](/The_Good_Research_Code_Handbook/images/concepts.jpg)
 
 ### A note on memory
 
