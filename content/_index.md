@@ -3,7 +3,7 @@ archetype = "home"
 title = "The Good Research Code Handbook"
 +++
 
-### [Patrick Mineault (2022)](https://goodresearch.dev/index.html)
+## [Patrick Mineault (2022)](https://goodresearch.dev/index.html)
 
 #### First take
 
