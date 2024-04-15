@@ -1,4 +1,4 @@
-baseURL = 'https://bio-recap.github.io/the_good_research_code_handbook/'
+baseURL = 'https://bio-recap.github.io/The_Good_Research_Code_Handbook/'
 languageCode = 'en-us'
 title = 'The Good Research Code Handbook'
 theme = 'study_blog_relearn'
