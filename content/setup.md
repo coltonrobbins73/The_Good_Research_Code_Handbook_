@@ -93,4 +93,10 @@ Note that you can change the name of the package. The default is the parent dire
 
 If you want to skip all this, you can use cookiecutter to automate all these steps.
 
+Install cookiecutter
+
+    python3 -m pip install --user cookiecutter
+
+Run the specific template for this project
+
     cookiecutter gh:patrickmineault/true-neutral-cookiecutter
